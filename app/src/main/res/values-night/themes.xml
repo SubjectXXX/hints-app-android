@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Night Mode Theme -->
+    <style name="Theme.HintsApp" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primary_night</item>
+        <item name="colorPrimaryVariant">@color/primary_variant_night</item>
+        <item name="colorSecondary">@color/secondary_night</item>
+        <item name="android:colorBackground">@color/background_night</item>
+        <item name="colorSurface">@color/surface_night</item>
+        <item name="colorError">@color/error_night</item>
+        <item name="colorOnPrimary">@color/on_primary_night</item>
+        <item name="colorOnSecondary">@color/on_secondary_night</item>
+        <item name="colorOnBackground">@color/on_background_night</item>
+        <item name="colorOnSurface">@color/on_surface_night</item>
+        <item name="colorOnError">@color/on_error_night</item>
+    </style>
+</resources>
